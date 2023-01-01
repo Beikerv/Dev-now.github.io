@@ -15,14 +15,14 @@ header object{
     box-sizing: content-box;
 width: 100%;
     
-    z-index: 12;
+    z-index: 102;
 }
 footer object{
     width: 100% !important;
 height:340 px;
     position:fixed;
 bottom: -102px;
-z-index: 102;
+z-index: 20;
 }
 .contenido{
     padding-top: 10px;
