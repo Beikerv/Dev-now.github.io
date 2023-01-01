@@ -1,12 +1,14 @@
 <style>
-framei{
-    width: 100%;
+header object{
+    width: 100% !important;
     height:62px;/*recuadro de relleno*/
     position:fixed;
     top: 0px;
     bottom: -300px;
     background-color:"transparent";
     z-index: 100;
+
+
 
 }
 
