@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="es-ES">
+<head>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Welcome! </title>
+
+
+</head>
+<body>
+<div><script src=".\vara.js"></script></div>
+
+<p></p>
+<div id="bloque">
+<span>Welcome to my website. Feel free to explore and contact me! :)</span>
+</div>
+<style>
+.bloque {
+  display: table;
+
+  table-layout: fixed;
+width: 100%;
+}
+span {
+br.responsive
+  display: inline; 
+display: block;
+font-family: monospace;
+white-space: nowrap;
+color: #FFFFFF;
+font-size:2vw;
+margin: 1em;
+word-break: break-word;
+
+  align-items: center;
+  justify-content: center;
+border-right: 4px solid;
+width: 62ch;
+
+animation: typing 4s steps(62), blink .5s infinite step-end alternate;
+overflow:hidden;
+ -moz-user-select: none; /* Firefox */
+      -ms-user-select: none; /* Internet Explorer */
+   -khtml-user-select: none; /* KHTML browsers (e.g. Konqueror) */
+  -webkit-user-select: none; /* Chrome, Safari, and Opera */
+  -webkit-touch-callout: none; /* Disable Android and iOS callouts*/
+  margin: 0 auto;
+position: absolute;
+  top: 40%;
+  left: 15%;
+}
+
+@keyFrames typing {
+
+from { width: 0}
+}
+
+@keyFrames blink {
+ 50% { border-color: transparent}
+}
+button{
+opacity: 0;
+    transition: opacity 0.5s;
+
+}
+
+body{
+  background-color: #000000;
+  
+}
+
+
+
+
+
+</style>
+<script type="text/javascript" language="JavaScript">
+
+
+
+</script>
+
+
+<script>
+
+function redireccionarPagina() {
+  var galleta;
+ if(document.cookie.length == 0)
+  { 
+   galleta="es";
+  
+   document.cookie = "lang="+ encodeURIComponent(galleta);
+   
+  }
+
+  else{
+
+    let galleta1;
+    galleta1 = document.cookie;
+    galleta =galleta1.substr(4);
+  }
+  window.location = "home_"+ galleta+".html";
+}
+setTimeout("redireccionarPagina()", 7000);
+
+
+</script>
+
+  
+
+
+
+
+<!--<button id = "boton">Transferir</button>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script>setTimeout(function(){
+    $('button').css({'opacity':'1'})
+}, 4000);
+</script>-->
+</body>
+</html>

@@ -1,0 +1,27 @@
+header object{
+    width: 100% !important;
+    height:62px;/*recuadro de relleno*/
+    position:fixed;
+    top: 0px;
+    bottom: -300px;
+    background-color:"transparent";
+    z-index: 100;
+
+}
+
+footer object{
+    width: 100% !important;
+height:340 px;
+    position:fixed;
+bottom: -102px;
+z-index: 12;
+}
+.contenido{
+    padding-top: 800px;
+}
+.contenido h1{
+    padding-left:20px;
+ 
+    font-size: 200px;
+      
+}

@@ -1,0 +1,85 @@
+<style>
+
+html{
+    scroll-behavior: smooth;
+ 
+
+}
+
+html, 
+body {
+    height: 100%;
+}
+    header{
+          position: sticky;
+        top: 0px;
+        z-index: 1;
+        background-color: grey;
+        
+        }
+        
+        
+        .caret{
+            color: transparent;
+        }
+        
+ 
+    
+        .selectpicker{
+          background-color: white;
+          float: right;
+        }
+        
+        header .navbar::before{
+          content:none;
+        }
+        .fa:hover{
+          opacity: 0.7;
+          text-decoration: none;
+        
+        }
+        .fa {
+          padding: 10px;
+          font-size: 10px;
+          text-decoration: none;
+        }
+        
+        .fa-linkedin {
+          background: #007bb5;
+          color: white;
+        }
+        
+        ul{
+            list-style-type: none;
+            display: inline-block;
+        
+        }
+        
+        ul li {
+            display: inline-block;
+        }
+        
+        
+        .fa-whatsapp {
+          background: rgb(33, 237, 33);
+          color: white;
+        }
+        
+        
+        .fa-github {
+          background: black;
+          color: white;
+        }
+        
+        
+        .fa-envelope {
+          background: rgb(105, 3, 160);
+          color: rgb(255, 255, 255);
+        }
+        
+        
+        .fa-instagram {
+          background: rgb(223, 33, 166);
+          color: rgb(255, 255, 255);
+        }
+     </style>
