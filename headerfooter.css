@@ -22,7 +22,7 @@ footer object{
 height:340 px;
     position:fixed;
 bottom: -102px;
-z-index: 12;
+z-index: 102;
 }
 .contenido{
     padding-top: 10px;
