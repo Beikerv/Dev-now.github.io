@@ -2,16 +2,18 @@
 header object{
     width: 100% !important;
     height:62px;/*recuadro de relleno*/
-    position:sticky;
+    position:fixed;
     top: 0px;
     bottom: -300px;
     background-color:"transparent";
     z-index: 100;*/
-
-
-
 }
 
+
+.framei{
+    box-sizing: content-box;
+width: 100%;
+}
 footer object{
     width: 100% !important;
 height:340 px;
