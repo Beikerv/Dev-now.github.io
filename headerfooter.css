@@ -14,6 +14,8 @@ header object{
    /* position:sticky;*/
     box-sizing: content-box;
 width: 100%;
+    position:fixed;
+    z-index: 12;
 }
 footer object{
     width: 100% !important;
