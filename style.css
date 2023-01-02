@@ -19,7 +19,7 @@ a{
 
 
 .navbar-custom {
-    background-color: lightgreen;
+ 
 }
 
 html, 
@@ -30,7 +30,7 @@ body {
           position: sticky;
         top: 0px;
         z-index: 1;
-        background-color: black;
+        background-color: black !important;
         
         }
         
