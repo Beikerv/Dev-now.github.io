@@ -59,6 +59,9 @@ body {
             display: inline-block;
                text-decoration:none;
         }
+li{
+    text-decoration:none;
+}
         
         ul li {
             display: inline-block;
