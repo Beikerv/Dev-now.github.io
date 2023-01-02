@@ -71,6 +71,7 @@ body {
             list-style-type: none;
             display: inline-block;
                text-decoration:none;
+            color:white; 
         }
 li{
     text-decoration:none;
