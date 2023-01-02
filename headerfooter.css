@@ -21,7 +21,7 @@ bottom: -102px;
 z-index: 12;
 }
 .contenido{
-    padding-top: 70px;
+    padding-top: 90px;
   
 }
 .contenido h1{
@@ -34,10 +34,13 @@ z-index: 12;
 
 
 .contenido h2{
-
+margin-left: 30px;
  line-height : 1.6;
     font-size: 25px;
       
 }
 
 
+p{
+    margin-left: 30px;
+}
