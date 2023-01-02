@@ -108,7 +108,7 @@ li{
           color: rgb(255, 255, 255);
         }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 650px) {
   html {
     display: inline-flex;!important
   }
