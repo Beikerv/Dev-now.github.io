@@ -11,11 +11,11 @@ header object{
 
 
 .framei{
-   /* position:sticky;*/
+  position:sticky;
     box-sizing: content-box;
 width: 100%;
     background-color:orange;
-    
+  z-index: 100;  
   
 }
 
