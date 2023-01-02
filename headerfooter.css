@@ -10,8 +10,8 @@ header object{
 }
 
 body{
- margin: 10px;
-};
+
+}
 
 footer object{
     width: 100% !important;
@@ -22,6 +22,7 @@ z-index: 12;
 }
 .contenido{
     padding-top: 70px;
+     margin: 30px;
 }
 .contenido h1{
     padding-left:0.7em 0.95em;
