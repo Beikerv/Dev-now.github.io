@@ -9,6 +9,10 @@ header object{
 
 }
 
+body{
+ margin: 10px;
+};
+
 footer object{
     width: 100% !important;
 height:340 px;
