@@ -20,7 +20,7 @@ a{
 
 .bg-light{
  background-color: black !important;
-    --bs-bg-opacity: 0;
+    --bs-bg-opacity: 0 !important;
 }
 
 html, 
