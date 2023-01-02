@@ -1,6 +1,6 @@
 header object{
     width: 100% !important;
-    height:62px;/*recuadro de relleno*/
+    height:97px;/*recuadro de relleno*/
     position:fixed;
     top: 0px;
     bottom: -300px;
@@ -34,8 +34,4 @@ z-index: 12;
       
 }
 
-@media and (max-width: 760px) {
- header object{
-    width: 100% !important;
-    height:80px; !important;/*recuadro de relleno*/
-}
+
