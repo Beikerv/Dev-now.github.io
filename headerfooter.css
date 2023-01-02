@@ -33,3 +33,9 @@ z-index: 12;
     font-size: 25px;
       
 }
+
+@media and (max-width: 650px) {
+ header object{
+    width: 100% !important;
+    height:80px;/*recuadro de relleno*/
+}
