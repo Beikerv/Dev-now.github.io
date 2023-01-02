@@ -57,7 +57,7 @@ body {
         ul{
             list-style-type: none;
             display: inline-block;
-        
+               text-decoration:none;
         }
         
         ul li {
