@@ -37,5 +37,5 @@ z-index: 12;
 @media and (max-width: 760px) {
  header object{
     width: 100% !important;
-    height:200px; !important;/*recuadro de relleno*/
+    height:80px; !important;/*recuadro de relleno*/
 }
