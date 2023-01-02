@@ -8,6 +8,16 @@ html{
 
 
 
+a{
+
+    border: 0px solid red;
+    color: white !important;
+ text-decoration:none!important;
+
+}
+
+
+
 .navbar-custom {
     background-color: lightgreen;
 }
