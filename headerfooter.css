@@ -2,7 +2,7 @@
 header object{
     width: 100% !important;
     height:62px;/*recuadro de relleno*/
-    /*position:fixed;*/
+    position:sticky;
     top: 0px;
     bottom: -300px;
     background-color:"blue";
