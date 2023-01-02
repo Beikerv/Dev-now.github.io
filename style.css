@@ -14,16 +14,12 @@ body {
           position: sticky;
         top: 0px;
         z-index: 1;
-        background-color: grey;
+        background-color: black;
         
         }
         
 
- header .navbar{
-     
-     background-color:purple;
-}
-        
+    
         .caret{
             color: transparent;
         }
