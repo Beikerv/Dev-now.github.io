@@ -18,6 +18,10 @@ width: 100%;
     
   
 }
+
+
+header{position:sticky;
+}
 footer object{
     width: 100% !important;
 height:340 px;
