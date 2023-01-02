@@ -28,6 +28,8 @@ background: linear-gradient(24deg, rgba(34,20,101,1) 2%, rgba(67,19,144,1) 48%, 
 html, 
 body {
     height: 100%;
+     background: rgb(34,20,101);
+background: linear-gradient(24deg, rgba(34,20,101,1) 2%, rgba(67,19,144,1) 48%, rgba(26,60,144,1) 87%)!important;
 }
     header{
           position: sticky;
