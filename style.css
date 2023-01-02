@@ -18,6 +18,11 @@ body {
         
         }
         
+
+ header .navbar{
+     
+     background-color:purple;
+}
         
         .caret{
             color: transparent;
@@ -57,6 +62,7 @@ body {
         
         ul li {
             display: inline-block;
+            text-decoration:none;
         }
         
         
